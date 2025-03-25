@@ -1,0 +1,9 @@
+# python
+.venv/
+
+# C (with zig build)
+.zig-cache/
+zig-out/
+
+# C (with make)
+build/

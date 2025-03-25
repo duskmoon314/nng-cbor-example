@@ -1,0 +1,6 @@
+{
+  "clangd.path": "/usr/bin/clangd",
+  "[c]": {
+    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+  }
+}
